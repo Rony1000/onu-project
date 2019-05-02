@@ -1,0 +1,1128 @@
+/*For -------- xs device same code -------- */
+
+@media(min-width: 275px) and (max-width: 767px){
+
+
+
+}/*End of 767px*/
+
+/*For -------- xs -------- device*/
+
+@media(min-width: 275px) and (max-width: 320px){
+
+.carousel img {
+    min-height: 300px;
+}
+.carousel .item {
+    width: 100%;
+    height: 300px;
+}
+.overlay {                  
+    width: 100%;
+    margin-top: 88px;
+}
+.navbar-brand {
+    padding: 0px 0px;
+}
+.navbar-brand img{
+   width: 110px;
+   height: 50px;
+}
+.navbar-nav {
+    margin-top: 4px;
+}
+.navbar-nav li{
+    display: inline-block;
+}
+.navbar-inverse .navbar-nav li > a {
+    font-size: 12px;
+    padding-top: 0;
+    width: 100%;
+}
+.nav > li > a {
+    padding: 0px 4px;
+}
+
+/*========= close navbar ======*/
+
+.banner-creative h1 {
+    font-size: 16px;
+    margin-top: 22px;
+    margin-left: 0;
+}
+.banner-creative a {
+    display: inline-block;
+}
+.banner-creative h2 {
+    font-size: 28px;
+    height: 85px;
+    padding: 20px;
+}
+.onu-border {
+    margin-left: 4px;
+    width: 100%;
+}
+.banner-creative p {
+    font-size: 15px;
+    margin-left: 0;
+    font-weight: 400;
+}
+
+/*======= close we are onu ====*/
+.carousel-indicators {
+    bottom: 5px;
+}
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+}
+.carousel-indicators .active {
+    width: 15px;
+    height: 15px;
+}
+/*===== close indicator ====*/
+
+.about-us {
+    margin-top: 0;
+}
+.about-us h1 {
+    font-size: 25px;
+}
+.about-us p {
+    font-size: 15px;
+    padding-top: 5px;
+    text-align: justify;
+}
+.about-blog {
+    margin-top: 0;
+}
+.about-blog p{
+    padding-bottom: 0;
+}
+.servics {
+    margin-top: 32px;
+}
+.image-container {
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+.portfolio-iso {
+    margin-top: 58px;
+}
+.portfolioFilter {
+    margin-top: 28px;
+    text-align: center;
+    line-height: 2.5;
+}
+.portfolioFilter a {
+    margin-right: 0;
+    font-size: 11px;
+}
+.all-work ,
+.web-design ,
+.uldesign ,
+.branding ,
+.logodesign,
+.illustration{
+    width: 100px;
+    height: 30px;
+}
+span.rollover {
+    height: 96%;
+    width: 100%;
+}
+.portfolioContainer {
+    margin-bottom: 26px;
+}
+
+/*====== close portfolio =====*/
+.our-pricing {
+    margin-top: 0px;
+}
+.price-bg {
+    margin-top: 34px;
+    margin-bottom: 58px;
+}
+.price-containt {
+    margin-left: 40px;
+}
+
+/*==== close ourpricing ====*/
+.happy-counter span {
+    font-size: 15px;
+}
+.happy-counter p {
+    font-size: 13px;
+}
+.happy-counter {
+    margin-top: 18px;
+    margin-bottom: 22px;
+}
+
+/*===== close counterUp =====*/
+
+.contact-us {
+    margin-top: 50px;
+}
+.btn-input-sub, 
+.message-btn {
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+/*===== close contactUs ====*/
+
+.social-copy h2 {
+    font-size: 11px;
+    margin-top: -41px;
+    margin-bottom: 28px;
+}
+.social-copy a {
+    font-size: 15px;
+    margin-left: 2px;
+}
+.social-copy h1 {
+    margin-top: 40px;
+    line-height: 16px;
+}
+@media(min-width: 280px) and (max-width: 320px){ /*sub media couery*/
+.price-bg {
+    margin-left: -8px;
+}
+
+} /*close sub media couery*/
+@media(min-width: 300px) and (max-width: 320px){ /*sub media couery*/
+.price-bg {
+    margin-left: 5px;
+}
+} /*close sub media couery*/
+
+
+}/*End of 320px*/
+
+/*================================ End 280 responsiv =======================================*/
+
+@media(min-width: 321px) and (max-width: 480px){
+
+.carousel img {
+    min-height: 400px;
+}
+.carousel .item {
+    width: 100%;
+    height: 400px;
+}
+.overlay {                  
+    width: 100%;
+     margin-top: 88px;
+}
+.navbar-brand {
+    padding: 0px 0px;
+}
+.navbar-brand img{
+    width: 120px;
+    height: 54px;
+}
+.navbar-nav {
+    margin-top: 4px;
+}
+.navbar-nav li{
+    display: inline-block;
+}
+.navbar-inverse .navbar-nav li > a {
+    font-size: 14px;
+    padding-top: 0;
+    width: 100%;
+}
+.nav > li > a {
+    padding: 0px 4px;
+}
+
+/*========= close navbar ======*/
+
+.banner-creative h1 {
+    font-size: 19px;
+    margin-top: 20px;
+    margin-left: 0;
+}
+.banner-creative a {
+    display: inline-block;
+}
+.banner-creative h2 {
+    font-size: 40px;
+    height: 93px;
+    padding: 24px;
+}
+.onu-border {
+    margin-left: 4px;
+    width: 100%;
+}
+.banner-creative p {
+    font-size: 17px;
+    margin-left: 0;
+    font-weight: 400;
+}
+
+/*======= close we are onu ====*/
+.carousel-indicators {
+    bottom: 5px;
+}
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+}
+.carousel-indicators .active {
+    width: 15px;
+    height: 15px;
+}
+.carousel {
+    margin-bottom: 25px;
+}
+.about-us {
+    margin-top: 0px;
+}
+.about-us h1 {
+    font-size: 26px;
+}
+.about-us p {
+    font-size: 16px;
+    text-align: justify;
+}
+.about-blog p {
+    font-size: 15px;
+    padding-bottom: 0;
+}
+.servics {
+    margin-top: 36px;
+}
+.image-container {
+    margin-top: 26px;
+    width: 270px;
+    height: 243px;
+    margin-bottom: 50px;
+}
+.image-container .after {
+    width: 270px;
+    height: 243px;
+}
+.portfolio-iso {
+    margin-top: 50px;
+}
+.portfolioFilter {
+    margin-top: 32px;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
+.all-work ,
+.web-design ,
+.uldesign ,
+.branding ,
+.logodesign,
+.illustration {  
+    width: 46%;
+    height: 42px;
+}
+span.rollover {
+    height: 97%;
+    width: 100%;
+}
+.our-pricing {
+    margin-top: 0px;
+}
+.portfolioContainer {
+    margin-bottom: 26px;
+}
+.our-pricing {
+    margin-top: 0px;
+}
+.price-bg {
+    margin-top: 34px;
+    margin-bottom: 0;
+}
+.price-containt {
+    margin-left: 40px;
+}
+.pricing-mdl{
+    width: 100%;
+    padding: 20px;
+}
+.happy-counter span {
+    font-size: 16px;
+}
+.happy-counter p {
+    font-size: 14px;
+}
+.happy-counter {
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+.contact-us {
+    margin-top: 50px;
+}
+.btn-input-sub, 
+.message-btn {
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+.social-copy h2 {
+    font-size: 14px;
+    margin-top: -49px;
+    margin-bottom: 28px;
+}
+.social-copy a {
+    font-size: 17px;
+    margin-left: 2px;
+}
+.social-copy h1 {
+    margin-top: 40px;
+    line-height: 16px;
+}
+
+@media(min-width: 350px) and (max-width: 480px){   /*sub media couery for services img*/
+.image-container {
+    margin-left: 20px;
+} 
+
+} /*close sub media couery*/
+
+@media(min-width: 380px) and (max-width: 480px){ /*sub media couary for services img*/
+   .image-container {
+    margin-left: 30px;
+}
+.pricing-mdl {
+    margin-left: 33px;
+}
+
+} /*close sub media couery*/
+
+@media(min-width: 410px) and (max-width: 480px){ /*sub media couary for services img*/
+   .image-container {
+    margin-left: 40px;
+}
+.pricing-mdl {
+    margin-left: 40px;
+}
+
+} /*close sub media couery*/
+
+@media(min-width: 445px) and (max-width: 480px){ /*sub media couary for services img*/
+   .image-container {
+    margin-left: 50px;
+}
+span.rollover {
+    height: 340px;
+    width: 370px;
+}
+.portfolioContainer {
+    margin-left: 25px;
+}
+.pricing-mdl {
+    margin-left: 45px;
+}
+
+} /*close sub media couery*/
+
+@media(min-width: 460px) and (max-width: 480px){ /*sub media couary for services img*/
+   .image-container {
+    margin-left: 63px;
+}
+.pricing-mdl {
+    margin-left: 50px;
+}
+
+} /*close sub media couery*/
+
+	
+}/*End of 480px*/
+
+/*================================== End 321 responsiv ====================================*/
+
+@media(min-width: 481px) and (max-width: 640px){
+.carousel img {
+    min-height: 550px;
+}
+.carousel .item {
+    width: 100%;
+    height: 550px;
+}
+.overlay {                  
+    width: 100%;
+    margin-top: 88px;
+}
+.navbar-brand {
+    padding: 0px 0px;
+}
+.navbar-brand img{
+   width: 110px;
+   height: 50px;
+}
+.navbar-nav {
+    margin-top: 4px;
+}
+.navbar-nav li{
+    display: inline-block;
+}
+.navbar-inverse .navbar-nav li > a {
+    font-size: 16px;
+    padding-top: 3px;
+    width: 100%;
+}
+.nav > li > a {
+    padding: 0px 4px;
+}
+
+/*========= close navbar ======*/
+
+.banner-creative h1 {
+    font-size: 25px;
+    margin-top: 80px;
+    margin-left: 0;
+}
+.banner-creative a {
+    display: inline-block;
+}
+.banner-creative h2 {
+   font-size: 60px;
+   height: 110px;
+   padding: 20px;
+}
+.onu-border {
+    margin-left: 4px;
+    width: 100%;
+}
+.banner-creative p {
+    font-size: 22px;
+    margin-left: 0;
+    font-weight: 400;
+}
+
+/*======= close we are onu ====*/
+.carousel-indicators {
+    bottom: 40px;
+}
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+}
+.carousel-indicators .active {
+    width: 15px;
+    height: 15px;
+}
+/*===== close indicator ====*/
+.about-us {
+    margin-top: 0;
+}
+.about-us h1 {
+    font-size: 32px;
+}
+.about-us p {
+    font-size: 18px;
+    text-align: justify;
+}
+.about-blog {
+    margin-top: 14px;
+}
+.about-blog p {
+    padding-bottom: 10px;
+    font-size: 17px;
+}
+.servics {
+    margin-top: 46px;
+}
+.image-container {
+    margin: 0 auto;
+    padding:10px;
+    margin-bottom: 20px;
+}
+.image-container .after {
+    top: 10px;
+    left: 10px;
+    width: 93%;
+    height: 93%;
+}
+.portfolio-iso {
+    margin-top: 50px;
+}
+.portfolioFilter {
+    margin-top: 50px;
+    word-spacing: 5px;
+}
+.all-work ,
+.web-design ,
+.uldesign ,
+.branding ,
+.logodesign,
+.illustration {  
+    width: 46%;
+    height: 50px;
+}
+.portfolioContainer {
+    margin-left: 10%;
+}
+.our-pricing {
+    margin-top: -50px;
+}
+.price-containt {
+    margin-left: 40px;
+}
+.price-bg {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 24%;
+}
+.happy-counter span {
+    font-size: 16px;
+}
+.happy-counter p {
+    font-size: 14px;
+}
+.happy-counter {
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+.happy-counter {
+    width: 45%;
+    float: left;
+    margin-left: 18px;
+}
+.contact-us {
+    margin-top: 65px;
+}
+.social-copy h2 {
+    margin-top: -51px;
+    margin-bottom: 36px;
+}
+
+@media(min-width: 600px) and (max-width: 640px){     /*sub media couery*/
+.image-container {
+    margin-bottom: 20px;
+    float: left;
+}
+.portfolioContainer {
+    margin-left: 21%;
+}
+.price-bg {
+    margin-bottom: 30px;
+    float: left;
+    margin-left: 5%;
+}
+
+} /*close sub media couery*/
+
+
+}/*End of 640px*/
+
+/*================================== End 481 responsiv ====================================*/
+
+@media(min-width: 641px) and (max-width: 767px){
+.carousel img {
+    min-height: 500px;
+}
+.carousel .item {
+    width: 100%;
+    height: 500px;
+}
+.overlay {                  
+    width: 100%;
+    margin-top: 126px;
+}
+.navbar-brand {
+    padding: 0px 0px;
+}
+.navbar-brand img{
+   width: 160px;
+   height: 60px;
+}
+.navbar-nav {
+    margin-top: 20px;
+}
+.navbar-nav li{
+    display: inline-block;
+}
+.navbar-inverse .navbar-nav li > a {
+    font-size: 20px;
+    padding-top: 7px;
+    width: 100%;
+}
+.nav > li > a {
+    padding: 0px 4px;
+}
+
+/*========= close navbar ======*/
+
+.banner-creative h1 {
+    font-size: 35px;
+    margin-top: 68px;
+    margin-left: 0;
+}
+.banner-creative a {
+    display: inline-block;
+}
+.banner-creative h2 {
+   font-size: 94px;
+   height: 140px;
+   padding: 20px;
+}
+.onu-border {
+    margin-left: 4px;
+    width: 100%;
+}
+.banner-creative p {
+    font-size: 35px;
+    margin-left: 0;
+    font-weight: 400;
+}
+
+/*======= close we are onu ====*/
+.carousel-indicators {
+    bottom: 8px;
+}
+.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+}
+.carousel-indicators .active {
+    width: 20px;
+    height: 20px;
+}
+/*===== close indicator ====*/
+.about-us {
+    margin-top: 0px;
+}
+.about-us h1 {
+    font-size: 30px;
+}
+.about-us p {
+    font-size: 18px;
+    text-align: justify;
+}
+.about-blog p {
+    font-size: 17px;
+    padding-bottom: 0;
+}
+.image-container {
+    margin-bottom: 20px;
+    margin-left: 3%;
+    float: left;
+}
+.portfolio-iso {
+    margin-top: 65px;
+}
+.portfolioFilter {
+    margin-top: 31px;
+}
+.all-work ,
+.web-design ,
+.uldesign ,
+.branding ,
+.logodesign,
+.illustration {  
+    width: 40%;
+    height: 42px;
+}
+.portfolioContainer {
+    margin-left: 20%;
+}
+.our-pricing {
+    margin-top: -30px;
+}
+.price-bg {
+    margin-bottom: -53px;
+    float: left;
+    margin-left: 5%;
+}
+.price-containt {
+    margin-left: 40px;
+}
+.counter-img {
+    margin-top: 80px;
+}
+.happy-counter span {
+    font-size: 16px;
+}
+.happy-counter p {
+    font-size: 14px;
+}
+.happy-counter {
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+.happy-counter {
+    width: 45%;
+    float: left;
+    margin-left: 18px;
+}
+.contact-us {
+    margin-top: 70px;
+}
+@media(min-width: 700px) and (max-width: 767px){ /*sub media couery*/
+.image-container {
+    margin-left: 6%;
+}
+.price-bg {
+    margin-bottom: -53px;
+    float: left;
+    margin-left: 9%;
+}
+
+} /*close sub media couery */
+	
+
+}/*End of 767px*/
+
+/*================================== End 641 responsiv ====================================*/
+
+/*For -------- sm device --------*/
+
+@media(min-width: 768px) and (max-width: 991px){
+.carousel img {
+    min-height: 600px;
+}
+.carousel .item {
+    width: 100%;
+    height: 600px;
+}
+.overlay {                  
+    width: 100%;
+    margin-top: 88px;
+}
+.navbar-brand {
+    padding: 0px 0px;
+}
+.navbar-brand img{
+   width: 77px;
+   height: 50px;
+}
+.navbar-nav {
+    margin-top: 22px;
+}
+.navbar-nav li{
+    display: inline-block;
+}
+.navbar-inverse .navbar-nav li > a {
+    font-size: 16px;
+    padding-top: 3px;
+    width: 100%;
+}
+.nav > li > a {
+    padding: 0px 4px;
+}
+
+/*========= close navbar ======*/
+
+.banner-creative h1 {
+    font-size: 44px;
+    margin-top: 58px;
+    margin-left: 0;
+}
+.banner-creative a {
+    display: inline-block;
+}
+.banner-creative h2 {
+    font-size: 105px;
+    height: 160px;
+    padding: 20px;
+}
+.onu-border {
+    margin-left: 4px;
+    width: 100%;
+}
+.banner-creative p {
+    font-size: 40px;
+    margin-left: 0;
+    font-weight: 400;
+}
+
+/*======= close we are onu ====*/
+.carousel-indicators {
+    bottom: 50px;
+}
+.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+}
+.carousel-indicators .active {
+    width: 20px;
+    height: 20px;
+}
+/*===== close indicator ====*/
+
+.about-us {
+    margin-top: 0px;
+}
+.about-blog p {
+    font-size: 18px;
+    padding-bottom: 4px;
+}
+.servics {
+    margin-top: 48px;
+}
+.image-container {
+    margin-bottom: 20px;
+    margin-left: 8%;
+    float: left;
+}
+.portfolio-iso {
+    margin-top: 66px;
+}
+.portfolioFilter {
+    margin-top: 52px;
+}
+.all-work ,
+.web-design ,
+.uldesign ,
+.branding ,
+.logodesign,
+.illustration {  
+    width: 95px;
+    height: 42px;
+    font-size: 12px;
+}
+.portfolioContainer {
+    margin-left: 30%;
+}
+.our-pricing {
+    margin-top: -22px;
+}
+.price-bg {
+    margin-top: 64px;
+    margin-bottom: -50px;
+    float: left;
+    margin-left: 10%;
+}
+.counter-img {
+    margin-top: 80px;
+}
+.happy-counter span {
+    font-size: 16px;
+}
+.happy-counter p {
+    font-size: 14px;
+}
+.happy-counter {
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+.happy-counter {
+    width: 35%;
+    float: left;
+    margin-left: 72px;
+}
+.contact-us {
+    margin-top: 60px;
+}
+.social-copy h2 {
+    margin-top: -52px;
+}
+	
+}/*End of 991px*/
+
+/*================================== End 768 responsiv ====================================*/
+
+/*For -------- md device -------- */
+@media(min-width: 992px) and (max-width: 1024px){
+.overlay {                  
+    width: 100%;
+    margin-top: 126px;
+}
+.navbar-brand {
+    padding: 0px 0px;
+}
+.navbar-brand img{
+   width: 160px;
+   height: 60px;
+}
+.navbar-nav {
+    margin-top: 40px;
+}
+.navbar-nav li{
+    display: inline-block;
+}
+.navbar-inverse .navbar-nav li > a {
+    font-size: 20px;
+    padding-top: 7px;
+    width: 100%;
+}
+.nav > li > a {
+    padding: 0px 4px;
+}
+
+/*========= close navbar ======*/
+
+.banner-creative h1 {
+    font-size: 38px;
+    margin-top: 68px;
+    margin-left: 0;
+}
+.banner-creative a {
+    display: inline-block;
+}
+.banner-creative h2 {
+   font-size: 94px;
+   height: 140px;
+   padding: 20px;
+}
+.onu-border {
+    margin-left: 4px;
+    width: 100%;
+}
+.banner-creative p {
+    font-size: 37px;
+    margin-left: 0;
+    font-weight: 400;
+}
+
+/*======= close we are onu ====*/
+.carousel-indicators {
+    bottom: 80px;
+}
+.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+}
+.carousel-indicators .active {
+    width: 20px;
+    height: 20px;
+}
+/*===== close indicator ====*/
+.about-us {
+    margin-top: 0px;
+}
+.about-us p {
+    font-size: 17px;
+}
+.about-blog p {
+    padding-bottom: 50px;
+}
+.servics {
+    margin-top: 62px;
+}
+.image-container {
+    width: 220px;
+    margin-bottom: 45px;
+}
+.image-container .after {
+    height: 82%;
+}
+.portfolio-iso {
+    margin-top: 75px;
+}
+.portfolioFilter {
+    margin-top: 260px;
+}
+.portfolioContainer {
+    margin-left: 10%;
+}
+.our-pricing {
+    margin-top: -50px;
+}
+.price-bg {
+    margin-top: 70px;
+    margin-bottom: 46px;
+    width: 220px;
+}
+.price-containt {
+    margin-left: -12px;
+}
+.price-basic h5 {
+    font-size: 12px;
+}
+.happy-counter span {
+    font-size: 50px;
+}
+.contact-us {
+    margin-top: 70px;
+}
+	
+}/*End of 1024px*/
+/*================================== End 992 responsiv ====================================*/
+
+@media(min-width: 1025px) and (max-width: 1199px){
+.navbar-nav {
+    float: right;
+    margin-top: -30px;
+    margin-left: 9%;
+}
+.navbar-brand {
+    padding: 16px 0px;
+}
+.navbar-brand img{
+   width: 110px;
+   height: 50px;
+}
+.navbar-inverse .navbar-nav li > a {
+    font-size: 16px;
+}
+.banner-creative h1 {
+    font-size: 38px;
+    margin-top: 68px;
+    margin-left: 0;
+}
+.banner-creative a {
+    display: inline-block;
+}
+.banner-creative h2 {
+    font-size: 114px;
+    height: 160px;
+    padding: 20px;
+}
+.onu-border {
+    margin-left: 4px;
+    width: 100%;
+}
+.banner-creative p {
+    font-size: 37px;
+    margin-left: 0;
+    font-weight: 400;
+}
+
+/*======= close we are onu ====*/
+
+.about-us {
+    margin-top: 0;
+}
+.about-blog p {
+    padding-bottom: 60px;
+}
+.image-container {
+    width: 227px;
+    margin-bottom: 45px;
+}
+.image-container .after {
+    height: 84%;
+}
+.portfolio-iso {
+    margin-top: 80px;
+}
+.portfolioContainer {
+    margin-left: 11%;
+}
+.our-pricing {
+    margin-top: -56px;
+}
+.price-bg {
+    margin-top: 50px;
+    margin-bottom: 65px;
+    width: 230px;
+}
+.price-containt {
+    margin-left: -8px;
+}
+.price-basic h5 {
+    font-size: 13px;
+}
+.contact-us {
+    margin-top: 60px;
+}
+	
+}/*End of 1199px*/
+/*================================== End 1025 responsiv ====================================*/
+
+/*For -------- lg device -------- */
+@media(min-width: 1200px) and (max-width: 1920px){
+
+    
+    
+}/*End of 1024px*/

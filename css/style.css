@@ -1,0 +1,548 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	overflow-x: hidden;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Lato', sans-serif;
+}
+
+/*============== CSS for navbar or Banner Image ==============*/
+
+/*overlay for Contant*/
+.overlay {                  
+	color:#fff;
+	position:absolute;
+	z-index:12;
+	left:0;
+    text-align:center;
+    margin-top: 100px;
+}
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+.navbar-wrapper {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 10;
+}
+.carousel {
+    margin-bottom: 60px;
+}
+ /*Since positioning the image, we need to help out the caption */
+.carousel-caption {
+    z-index: 1;
+}
+/*css for slide image height*/
+.carousel .item {
+    width: 100%;                        
+    height: 675px;
+    background-color: transparent;
+}
+.carousel img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 675px;
+}
+/*CSS for navbar background none*/
+.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+}
+/*CSS for navbar position right*/
+.navbar-nav{
+	float: right;
+	margin-top: 30px;
+}
+/*CSS for navbar Fonts*/
+.navbar-inverse .navbar-nav li>a{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    height: 0;
+}
+/*CSS for navbar bottom border*/
+.navbar-inverse .navbar-collapse, 
+.navbar-inverse .navbar-form {
+    border: none;
+}
+/*CSS for Onu logo padding*/
+.navbar-brand {
+    padding: 16px 16px;
+}
+/*CSS for navbar hover color*/
+.navbar-inverse .navbar-nav>li>a:focus, 
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #87D37B;
+}
+
+/*========== close navbar ==========*/
+.banner-creative h1{
+	font-size: 40px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 600;
+	margin-top: 100px;
+	margin-left: 198px;
+}
+.banner-creative a{
+	text-decoration: none;
+	color: #fff;
+}
+.banner-creative h2{
+	font-size: 100px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 600;
+	border: 2px solid #fff;
+	height: 160px;
+	padding-top: 24px;
+	margin-top: 0;
+}
+.onu-border{
+	margin-left: 335px;
+	width: 670px;
+}
+.banner-creative a:hover{
+	color: #87D37B; 
+}
+.banner-creative p{
+	font-size: 36px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 200;
+	margin-left: 198px;
+}
+
+/*========== CSS For Indicator ========*/
+.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+}
+.carousel-indicators .active {
+    width: 20px;
+    height: 20px;
+    background-color: #87D37B;
+    border: 1px solid #87D37B;
+}
+.carousel-indicators {
+	word-spacing: 5px;
+    bottom: 70px;
+}
+/*==================== close Banner =============================*/
+
+
+
+/*==================== CSS for About Us ===========================*/
+.about-us{
+	margin-top: 46px;
+}
+.about-us h1{
+	font-size: 36px;
+	text-transform: uppercase;
+	font-family: Myriad Pro;
+	font-weight: bold;
+	text-align: center;
+	color: #000;
+}
+.about-us p{
+	font-size: 18px;
+	padding-top: 15px;
+	text-align: center;
+}
+.about-blog{
+	margin-top: 42px;
+	text-align: center;
+}
+.about-blog a{
+	color: #000;
+	text-decoration: none;
+}
+.about-blog h1{
+    font-size: 70px;
+}
+.about-blog h2{
+	font-size: 24px;
+	font-family: Myriad Pro;
+	font-weight: bold;
+	padding-top: 0;
+
+}
+.about-blog p{
+	font-size: 13px;
+	text-align: justify;
+	word-spacing: 1px;
+	padding-top: 7px;
+}
+.about-blog p{
+	padding-bottom: 110px;
+}
+.about-blog a:hover{
+	color: #87D37B; 
+} 
+
+/*======================= close about Us ========================*/
+
+.bg-servics{
+	width: 100%;
+	background: #E1E1E1;
+}
+.servics{
+	margin-top: 84px;
+}
+
+.image-container {
+    position: relative;
+    width: 270px;
+    height: 243px;
+    margin-top: 65px;
+    margin-bottom: 100px;
+}
+.image-container .after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+    color: #FFF;
+}
+.image-container:hover .after {
+    display: block;
+    background: rgba(0, 0, 0, .6);
+}
+.social{
+	margin-top:90px;
+	text-align: center;
+}
+.social-color{
+	background: #1CB3E2;
+	color: #fff;
+}
+.social ul li{
+	width: 56px;
+	height: 56px;
+	font-size: 16px;
+	border-radius: 50%;
+	border: 1px solid #fff;
+	text-align: center;
+	line-height: 55px;
+	margin-left: 16px;
+	display: inline-block;
+}
+.social ul a{
+	color: #fff;
+}
+.social ul a:hover li{
+	color: #fff;
+	background-color: #87D37B;
+	border-color: #87D37B;
+}
+
+/*=================== close servics ========================*/
+
+.portfolio-iso{
+	margin-top: 150px;
+}
+.portfolioFilter{
+    margin-top: 297px;
+    text-align: center;
+    word-spacing: 5px;
+}
+.portfolioFilter a {
+    margin-right: 10px;
+    color: #666;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: #fff;
+}
+.portfolioFilter button{
+	border-color: #000;
+	background: #000;
+	box-shadow: none;
+}
+.all-work ,
+.web-design ,
+.uldesign ,
+.branding {
+	width: 125px;
+	height: 42px;
+}
+.logodesign{
+    width: 135px;
+	height: 42px;
+}
+.illustration{
+	width: 145px;
+	height: 42px;
+}
+.portfolioFilter button:hover,
+.portfolioFilter button:focus{
+    border-color: #87D37B;
+    background: #87D37B;
+}
+.portfolioContainer{
+	margin-top: 55px;
+	margin-bottom: 100px;
+}
+.portfolioContainer img {
+    margin: 5px;
+}
+ 
+.isotope-item {
+    z-index: 2;
+}
+.isotope-hidden.isotope-item {
+    pointer-events: none;
+    z-index: 1;
+}
+.isotope,
+.isotope .isotope-item {
+  /* change duration value to whatever you like */
+ 
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+}
+.isotope {
+    -webkit-transition-property: height, width;
+    -moz-transition-property: height, width;
+    transition-property: height, width;
+}
+.isotope .isotope-item {
+    -webkit-transition-property: -webkit-transform, opacity;
+    -moz-transition-property: -moz-transform, opacity;
+    transition-property: transform, opacity;
+}
+
+
+/*========= opacity isotop =========*/
+
+span.rollover {
+	opacity: 1;
+	-o-transition-duration: 1s;
+	-moz-transition-duration: 1s;
+	-webkit-transition: -webkit-transform 1s;
+	cursor: pointer;
+	height: 97%;
+	width: 97%;
+	position: absolute;
+	z-index: 10;
+	opacity: 0;
+}
+
+span.rollover:hover {
+	opacity: .7;
+	background: #000;
+	-o-transition-duration: 1s;
+	-moz-transition-duration: 1s;
+	-webkit-transition: -webkit-transform 1s;
+	-webkit-box-shadow: 0px 0px 4px #000;
+	-moz-box-shadow: 0px 0px 4px #000;
+	box-shadow: 0px 0px 4px #000;
+	margin-top: 5px;
+	margin-left: 5px;
+    font-size: 30px;
+    font-family: Myriad Pro;
+    font-weight: bold;
+    color: #22A50F; 
+    text-align: center;
+    padding-top: 145px;
+}
+
+/*===================== close Portfolio ====================*/
+
+.our-pricing{
+	margin-top: 65px;
+}
+.price-bg{
+	margin-top: 90px;
+	margin-bottom: 128px;
+	width: 244px;
+	height: 436px;
+	background: #39393A;
+	border-radius: 8px;
+	color: #fff;
+	padding-top: 20px;
+}
+.price-bg:hover{
+	background: #87D37B;
+}
+.price-bg:hover>.col-sm-8>.price-containt, 
+.price-bg:hover>.col-sm-8 .price-btn button{
+	background: #fff;
+	color: #87D37B;
+}
+.price-containt{
+    width: 140px;
+    height: 140px;
+    padding: 30px;
+	border: 5px solid #fff ;
+	border-radius: 50%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+}
+.price-containt p{
+	font-size: 30px;
+}
+.price-containt sup,
+.price-containt span{
+	font-size: 14px; 
+}
+sup{
+    top: -0.9em;
+}
+.price-containt h6{
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: -5px;
+}
+.price-basic h5{
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	border-bottom: 1px solid #fff;
+	border-left-width: 5px;
+	line-height: 39px;
+	word-spacing: 5px;
+	font-weight: bold;	
+}
+.price-btn{
+	margin-top: 20px;
+}
+.price-btn button{
+	width: 100%;
+	height: 35px;
+	background: #fff;
+	color: #39393a;
+	border:none;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+}
+.price-btn a{
+	font-size: 14px;
+}
+
+/*================== close Our Pricing ======================*/
+
+.counter-img{
+	background: url(../image/skill.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.happy-counter{
+	margin-top: 100px;
+	border: 1px solid #58564D;
+	padding: 3px;
+	text-align: center;
+	margin-bottom: 107px;
+}
+.happy-counter span{
+	font-size: 55px;
+	color: #fff;
+	font-family: Myriad Pro;
+	font-weight: bold;
+}
+.happy-counter p{
+	font-size: 18px;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+}
+
+/*=================== close counter =========================*/
+
+.contact-us{
+	margin-top: 136px;
+}
+.contact-call p{
+	text-align: center;
+	font-size: 14px;
+}
+
+/*================= close Contact Us ======================*/
+
+.bg-submit-inpt{
+	width: 100%;
+	background: #F5F5F5;
+}
+.btn-input-sub, .message-btn{
+    margin-top: 108px;
+    margin-bottom: 40px;
+}
+.btn-input-sub input{
+	width: 100%;
+	height: 40px;
+	border:none;
+	padding: 15px;
+	margin-top: 20px;
+	font-size: 18px;
+	font-family: Myriad Pro;
+}
+.message-btn input{
+	width: 100%;
+	height: 100px;
+	border:none;
+	padding: 20px;
+	margin-top: 20px;
+	font-size: 18px;
+	font-family: Myriad Pro;
+}
+.message-btn button{
+	width: 160px;
+	height: 40px;
+	background: #282020;
+	color: #fff;
+	font-family: Myriad Pro;
+	font-weight: bold;
+	border:none;
+	margin-top: 20px;
+}
+.message-btn button:hover{
+	background:#87D37B;
+}
+
+/*===================== close Submit form ==============*/
+
+#map {
+    width: 100%;
+    height: 462px;
+}
+
+/*================== close Gmap3 ===================*/
+
+.copyright{
+	width: 100%;
+    margin-top: -20px;
+	background: #000101;
+}
+.social-copy h1{
+	margin-top: 33px;
+}
+.social-copy h2{
+	font-size: 14px;
+	color: #fff;
+	font-family: Myriad Pro;
+	text-align: center;
+	margin-top: -36px;
+	margin-bottom: 28px;
+}
+.social-copy a{
+	font-size: 24px;
+	color: #fff;
+	margin-left: 15px;
+}
+.social-copy a:hover{
+	color: #87D37B;
+}
+
+/*================== close copyright ================*/
+
+
